@@ -1,0 +1,42 @@
+<section class="section hidden">
+
+<div class="container">
+
+<h2>About Us</h2>
+       <section class="cards-container">
+
+<div class="card">
+<div class="icon-circle">
+<img src="photos/motto icon.png">
+</div>
+
+<h3>SHOOL MOTTO</h3>
+<p class="subtitle">Perseverance and consistency</p>
+
+
+
+<a href="clubs.html" class="card-btn">Learn More</a>
+</div>
+
+
+<div class="card">
+<div class="icon-circle">
+<img src="photos/mission.png">
+</div>
+
+<h3>Our Mission</h3>
+<p class="subtitle">To continue framing and solve the greatest challenges of the future based on science and technology</p>
+
+<a href="clubs.html" class="card-btn">Learn More</a>
+</div>
+
+
+<div class="card">
+<div class="icon-circle">
+<img src="photos/value.png">
+</div>
+<h3>SCHOOL VALUE Value</h3>
+<p class="subtitle">Responsibility,Harmony,intergrity,<BR>resilience,respect</p>
+
+<a href="clubs.html" class="card-btn">Learn More</a>
+</div>

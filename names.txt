@@ -1,0 +1,42 @@
+Last name	First name	Classification name	Position
+Katali	Gedion	Head teacher	Admin
+Ngerageze Havugukize	Pascal	DOD	Admin
+Mbabazi	Grace	Secretary	Admin
+Twagirumukiza	Janvier	Patron	Admin
+Uwamahoro	Aline	Metron	Admin
+Nizeyimana	Robert	Librarian	Admin
+Mukakimenyi	Judith	Geography	Arts&Humanities
+Kato	Ivan	Geography	Arts&Humanities
+Gashumba	Peter	Chemistry	Sciences&Mathematics
+Karekezi	Olivie	DOS	Admin
+Mugera	Farooq	Enterprenuership	Arts&Humanities
+Byukusenge	Mectilde	French&Kinyarwanda	Languagies
+Manishimwe	Noel	Kinyarwanda	Languagies
+Chance	Julius	History	Arts&Humanities
+Rwahama	Patrick	Enterprenuership	Arts&Humanities
+Nsabiman	Theonest	Mathematics	Science&Mathematics
+Kayisire	John	History	Arts&humanities
+Kandore	Fred	Ict/Maths	Arts&Humanities
+Ntawushiragahinda	Joseph	English	Languagies
+Bikorimana	Gaspard	Bursar	Admin
+Hitimana	Ferdinard	Mathematics	Scince&Mathematics
+Habarushaka	Jean De dieu	Mathemathecis	Scince&Mathematics
+Hatangimana	Jean De dieu	Economics	Arts&Humanities
+Mbarushimana	Bernard	Biology	Scince&Mathematics
+Habimana	Jean D’Amour	Biology	Scince&Mathematics
+Asimwe	Ronald	Physics	Scince&Mathematics
+Manirakiza	Pacifique	Ict	Scince&Mathematics
+Ndicunguye	Festus	Pyschology	Arts&Humanities
+Uwimana	Anathol	Chemistry	Scince&Mathematics
+Cyiza Gashugi	Kevin	Geography	Arts&Humanities
+Nsabiyumva	Daniel	Kiswahili	Languagies
+Ndengeyingoma	Joseph	Chemistry&Biology	Scince&Mathematics
+Mwijuka	Leopold	French	Languagies
+Mutiganda	John	Laboratory	Lab
+Kamane	Emmanuel	Laboratory	Lab
+Niyitegeka	Dani	English&Literature	Languagies
+Uhawenimana	Jean D’amour	Mathematics&Literature	Scince&Mathematics
+Manizabayo	Jean Marie Vian	Literature	Languagies
+Mukamyi	Peter	Physics	Scince&Mathematics
+Nibyiza NEZERWA	Jean Bosco	Sports&Biology	Scince&Mathematics
+
